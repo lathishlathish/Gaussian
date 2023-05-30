@@ -43,11 +43,11 @@ for i in  range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ') 
 ```
 ## Output:
-```
+
 ![image](https://github.com/lathishlathish/Gaussian/assets/120359170/0086db69-fa24-42cb-8aff-4635371b1bac)
 ![image](https://github.com/lathishlathish/Gaussian/assets/120359170/f63a1d3a-82c4-4879-b7b2-5d54349fb62b)
 ![image](https://github.com/lathishlathish/Gaussian/assets/120359170/d0577d40-8c8d-4ba6-ba54-80f6141a29c6)
-
+```
 
  
 
